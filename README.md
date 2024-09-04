@@ -1,6 +1,9 @@
 ## About
 This project demonstrates multi-tenancy and wildcard subdomains with Next.js.
 
+# Demo
+https://pricekodo.com/
+
 ## Getting Started
 1. Clone this repository.
 2. Navigate to the `app` directory.
